@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+<!-- register -->
+
+	<string name="register_vc_title">สมัครสมาชิกที่นี่</string>
+	<string name="register_vc_detail">กรุณากรอกข้อมูลให้ครบทุกช่อง</string>
+	<string name="register_form_title_first_name">ชื่อ</string>
+	<string name="register_form_title_last_name">นามสกุล</string>
+	<string name="register_form_title_phone">เบอร์ติดต่อ</string>
+	<string name="register_form_button_register">ลงทะเบียน</string>
+	<string name="register_form_alert_required_field">กรุณากรอก:</string>
+	<string name="register_form_alert_button_close">ปิด</string>
+	<string name="register_form_hud_loading">กำลังโหลด</string>
+	<string name="register_form_hud_account_ready">บัญชีของคุณพร้อมใช้งานแล้ว!</string>
+
+
+
+<!-- intro -->
+
+	<string name="intro_alert_title_success">คุณได้ล็อกอินเรียบร้อย</string>
+	<string name="intro_alert_title_ok">โอเค</string>
+	<string name="intro_alert_title_close">ปิด</string>
+	<string name="intro_button_title_register">สมัครสมาชิก</string>
+	<string name="intro_text_hello">สวัสดี</string>
+
+
+
+<!-- login -->
+
+	<string name="login_vc_title">เข้าสู่ระบบ</string>
+	<string name="login_vc_detail">กรอกข้อมูลให้ครบ</string>
+</resources>

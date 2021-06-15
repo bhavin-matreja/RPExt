@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+<!-- register -->
+
+	<string name="register_vc_title">Inscrivez-vous ici</string>
+	<string name="register_vc_detail">S'il vous plaît fournir toutes les informations requises.</string>
+	<string name="register_form_title_first_name">Prénom</string>
+	<string name="register_form_title_last_name">nom de famille</string>
+	<string name="register_form_title_phone">numéro de téléphone</string>
+	<string name="register_form_button_register">registre</string>
+	<string name="register_form_alert_required_field">champs requis:</string>
+	<string name="register_form_alert_button_close">Fermer</string>
+	<string name="register_form_hud_loading">en cours</string>
+	<string name="register_form_hud_account_ready">Your account is ready (in france)</string>
+
+
+
+<!-- intro -->
+
+	<string name="intro_alert_title_success">connecté avec succès</string>
+	<string name="intro_alert_title_ok">D'accord</string>
+	<string name="intro_alert_title_close">Fermer</string>
+	<string name="intro_button_title_register">registre</string>
+	<string name="intro_text_hello">Hello(?)</string>
+
+
+
+<!-- login -->
+
+	<string name="login_vc_title">s'identifier</string>
+	<string name="login_vc_detail">remplir le nom d'utilisateur et mot de passe</string>
+</resources>

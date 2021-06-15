@@ -24,7 +24,7 @@ Using to learn podspec creation jsdf sjds sjdfsdj djvfdsjf sdjfsdhf jsdf jh.
   s.homepage         = 'https://github.com/RenukaPa/RPExt'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'RenukaPa' => 'renukapandey90@gmail.com' }
+  s.author           = { 'Renuka Pandey' => 'renukapandey90@gmail.com' }
   s.source           = { :git => 'https://github.com/RenukaPa/RPExt.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 

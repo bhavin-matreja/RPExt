@@ -1,0 +1,19 @@
+{
+	"BASE_STRINGS_PATH": "currentdir",
+	"IN_PATH": "../CSVFiles",
+	"OUT_PATH": "../OutputFiles/LocalizableFiles",
+
+	"PLATFORM": "ios",
+	"LANG_KEYS": ["en", "th", "fr"],
+
+
+	"GEN_STRUCT_IF_IOS": true,
+
+	"GEN_STRUCT_BASE_PATH": "currentdir",
+	"GEN_STRUCT_OUT_PATH": "../OutputFiles/StructFiles",
+	"GEN_STRUCT_FILENAME": "S2BLocalizedString.swift",
+
+	"GEN_STRUCT_STRUCT_NAME": "S2BLocalizedString",
+
+	"GEN_STRUCT_VALUE_RETRIEVAL": "\"{key}\".localized()"
+}
