@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'RPExt_Example' do
+  pod 'RPExt', :path => '../'
+
+  target 'RPExt_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
