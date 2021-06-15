@@ -1,0 +1,22 @@
+{
+  "name": "RPExt",
+  "version": "0.1.0",
+  "summary": "A short description of RPExt.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/RenukaPa/RPExt",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "RenukaPa": "renukapandey90@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/RenukaPa/RPExt.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "RPExt/Classes/**/*"
+}

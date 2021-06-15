@@ -1,0 +1,6 @@
+framework module RPExt {
+  umbrella header "RPExt-umbrella.h"
+
+  export *
+  module * { export * }
+}

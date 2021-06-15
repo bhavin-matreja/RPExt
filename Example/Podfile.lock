@@ -1,0 +1,16 @@
+PODS:
+  - RPExt (0.1.0)
+
+DEPENDENCIES:
+  - RPExt (from `../`)
+
+EXTERNAL SOURCES:
+  RPExt:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  RPExt: 08214064be8236ab7c0da8ae5f811cb0c48cdb13
+
+PODFILE CHECKSUM: ae4d78d7341d1736dbcc912af474829ab2282370
+
+COCOAPODS: 1.10.1
