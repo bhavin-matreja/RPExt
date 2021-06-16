@@ -16,6 +16,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         customImgView.circleImageView(borderColor: .red, borderWidth: 2.0)
+        let titleOne = S2BLocalizedString.intro_alert_title_close
     }
 
     override func didReceiveMemoryWarning() {
